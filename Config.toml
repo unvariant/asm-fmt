@@ -1,0 +1,12 @@
+[label]
+suffix = ":"
+
+[directive]
+prefix = "%"
+suffix = " "
+
+[comment]
+prefix = ";"
+
+[instruction]
+standalone_margin = 4

@@ -1,0 +1,11 @@
+[package]
+name = "asm-fmt"
+version = "0.1.0"
+edition = "2021"
+authors = ["unvariant.winter@gmail.com"]
+
+[dependencies]
+regex = "1"
+toml = "0.5.9"
+serde = "1"
+serde_derive = "1"
